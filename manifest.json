@@ -1,0 +1,15 @@
+{
+  "name": "Meri Website",
+  "short_name": "Website",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Meri website ka description",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
